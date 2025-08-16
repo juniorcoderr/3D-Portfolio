@@ -55,7 +55,7 @@ const logoIconsList = [
     imgPath: "/images/logos/company-logo-6.png",
   },
   {
-    imgPath: "/images/logos/company-logo-7.png",
+    imgPath: "/images/logos/company-logo-7.jpeg",
   },
   {
     imgPath: "/images/logos/company-logo-8.png",
@@ -67,7 +67,25 @@ const logoIconsList = [
     imgPath: "/images/logos/company-logo-10.png",
   },
   {
-    imgPath: "/images/logos/company-logo-11.png",
+    imgPath: "/images/logos/company-logo-11.jpg",
+  },
+  {
+    imgPath: "/images/logos/company-logo-12.png",
+  },
+  {
+    imgPath: "/images/logos/company-logo-13.png",
+  },
+  {
+    imgPath: "/images/logos/company-logo-14.jpg",
+  },
+  {
+    imgPath: "/images/logos/company-logo-15.png",
+  },
+  {
+    imgPath: "/images/logos/company-logo-16.jpeg",
+  },
+  {
+    imgPath: "/images/logos/company-logo-17.jpg",
   },
 ];
 
