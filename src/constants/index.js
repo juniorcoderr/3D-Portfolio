@@ -61,7 +61,7 @@ const logoIconsList = [
     imgPath: "/images/logos/company-logo-8.png",
   },
   {
-    imgPath: "/images/logos/company-logo-9.png",
+    imgPath: "/images/logos/company-logo-9.jpg",
   },
   {
     imgPath: "/images/logos/company-logo-10.png",
@@ -74,9 +74,6 @@ const logoIconsList = [
   },
   {
     imgPath: "/images/logos/company-logo-13.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-14.jpg",
   },
   {
     imgPath: "/images/logos/company-logo-15.png",
@@ -166,41 +163,54 @@ const techStackIcons = [
 const expCards = [
   {
     review:
-      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      "Starting my professional journey as a Software Engineer Trainee, where I will be contributing to real-world projects and learning industry best practices.",
+    imgPath: "/images/exp0.jpeg",
+    logoPath: "/images/exp0.jpeg",
+    title: "Software Engineer Trainee",
+    date: "September 2025 - Present",
+    responsibilities: [
+      "Collaborating with senior engineers to build and maintain scalable applications.",
+      "Learning and applying software development best practices in a professional environment.",
+      "Expanding knowledge in full-stack development and related technologies.",
+    ],
+  },
+  {
+    review:
+      "Alongside development, I am actively exploring DevOps practices and cloud computing to strengthen my overall software engineering skills.",
     imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    logoPath: "/images/exp1.png",
+    title: "DevOps & Cloud (Learning)",
+    date: "April 2025 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Gained practical knowledge of cloud services, deployment workflows, and containerization.",
+      "Worked with version control systems like Git & GitHub for collaborative development.",
+      "Learning to automate workflows and implement CI/CD pipelines.",
     ],
   },
   {
     review:
-      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+      "Worked on multiple full-stack and Next.js-based projects during my B.Tech, gaining hands-on experience with the MERN stack and modern web technologies.",
+    imgPath: "/images/exp2.jpg",
+    logoPath: "/images/exp2.jpg",
+    title: "Full Stack Developer (Projects)",
+    date: "September 2023 - Present",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Developed and deployed responsive web applications using React, Node.js, Express, and MongoDB.",
+      "Implemented authentication, authorization, and CRUD operations for different applications.",
+      "Focused on creating user-friendly interfaces with optimized performance.",
     ],
   },
   {
     review:
-      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+      "Contributed to academic and self-learning projects which enhanced my problem-solving, teamwork, and technical expertise.",
     imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
+    logoPath: "/images/exp3.png",
+    title: "Academic & Personal Learning",
+    date: "September 2021 - Present",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Completed online courses in full-stack development and databases.",
+      "Strengthened problem-solving skills by practicing Data Structures & Algorithms in C++.",
+      "Actively building projects to apply theoretical knowledge into real-world solutions.",
     ],
   },
 ];
