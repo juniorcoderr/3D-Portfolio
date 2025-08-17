@@ -61,10 +61,13 @@ const logoIconsList = [
     imgPath: "/images/logos/company-logo-8.png",
   },
   {
+    imgPath: "/images/logos/company-logo-9.png",
+  },
+  {
     imgPath: "/images/logos/company-logo-10.png",
   },
   {
-    imgPath: "/images/logos/company-logo-11.jpg",
+    imgPath: "/images/logos/company-logo-11.png",
   },
   {
     imgPath: "/images/logos/company-logo-12.png",
@@ -73,13 +76,13 @@ const logoIconsList = [
     imgPath: "/images/logos/company-logo-13.png",
   },
   {
+    imgPath: "/images/logos/company-logo-14.png",
+  },
+  {
     imgPath: "/images/logos/company-logo-15.png",
   },
   {
-    imgPath: "/images/logos/company-logo-16.jpeg",
-  },
-  {
-    imgPath: "/images/logos/company-logo-17.jpg",
+    imgPath: "/images/logos/company-logo-16.jpg",
   },
 ];
 
@@ -275,22 +278,26 @@ const testimonials = [
 const socialImgs = [
   {
     name: "insta",
+    url: "https://www.instagram.com/vinayakyadavv_/",
     imgPath: "/images/insta.png",
   },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
+  // {
+  //   name: "fb",
+  //   imgPath: "/images/fb.png",
+  // },
   {
     name: "x",
+    url: "https://x.com/VinayakYadav_",
     imgPath: "/images/x.png",
   },
   {
     name: "linkedin",
+    url: "https://www.linkedin.com/in/er-vinayak-yadav",
     imgPath: "/images/linkedin.png",
   },
   {
     name: "github",
+    url: "https://github.com/juniorcoderr",
     imgPath: "/images/github.jpeg",
   },
 ];
