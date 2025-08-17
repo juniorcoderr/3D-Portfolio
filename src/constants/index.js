@@ -203,7 +203,7 @@ const expCards = [
     imgPath: "/images/exp3.png",
     logoPath: "/images/exp3.png",
     title: "Academic & Personal Learning",
-    date: "September 2021 - Present",
+    date: "September 2021 - May 2025",
     responsibilities: [
       "Completed online courses in full-stack development and databases.",
       "Strengthened problem-solving skills by practicing Data Structures & Algorithms in C++.",
