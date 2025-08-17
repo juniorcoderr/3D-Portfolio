@@ -1,4 +1,4 @@
-🌐 3D Web Developer Portfolio
+# 🌐 3D Web Developer Portfolio
 
 An **immersive, interactive, and modern 3D portfolio website** built with **React, Three.js, GSAP, and Tailwind CSS**, designed to showcase projects, experience, and technical skills in a creative way.
 
