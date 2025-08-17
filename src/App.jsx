@@ -8,6 +8,7 @@ import TechStack from "./sections/TechStack";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
 //import Testimonials from "./sections/Testimonials";
+import { Analytics } from "@vercel/analytics/next";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       {/* <Testimonials /> */}
       <Contact />
       <Footer />
+      <Analytics />
     </>
   );
 };
