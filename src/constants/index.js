@@ -11,10 +11,10 @@ const navLinks = [
     name: "Skills",
     link: "#skills",
   },
-  {
-    name: "Testimonials",
-    link: "#testimonials",
-  },
+  // {
+  //   name: "Testimonials",
+  //   link: "#testimonials",
+  // },
 ];
 
 const words = [
@@ -288,6 +288,10 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+  },
+  {
+    name: "github",
+    imgPath: "/images/github.jpeg",
   },
 ];
 

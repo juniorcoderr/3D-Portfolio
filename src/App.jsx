@@ -5,6 +5,7 @@ import LogoSection from "./sections/LogoSection";
 import FeatureCards from "./sections/FeatureCards";
 import ExperienceSection from "./sections/ExperienceSection";
 import TechStack from "./sections/TechStack";
+import Contact from "./sections/Contact";
 //import Testimonials from "./sections/Testimonials";
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
       <ExperienceSection />
       <TechStack />
       {/* <Testimonials /> */}
+      <Contact />
     </>
   );
 };
